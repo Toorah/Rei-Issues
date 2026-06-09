@@ -22,9 +22,9 @@ A good bug report has:
 - **Steps to reproduce**, what you expected, and what happened
 - For **MCP bridge** issues: which client (Claude Desktop / Claude Code / Cursor / VS Code), the transport, and any relevant lines from the bridge log
 
-## Security
+## Security & private reports
 
-Please **do not** file security-sensitive reports as public issues. Email **info@rei-tools.app** instead and we'll handle it privately.
+Please **do not** file security-sensitive reports as public issues. Reach us privately through the **contact form on the website** — https://rei-tools.app — and we'll handle it there. *(A dedicated contact/security form is coming; this section will link it directly once live.)*
 
 ## Links
 
